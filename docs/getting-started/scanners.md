@@ -37,7 +37,7 @@ $ phoneinfoga scan -n +4176418xxxx --plugin ./custom_scanner.so
 !!! info
     Plugins are written with the [Go programming language](https://golang.org/). To get started, [see this example plugin](https://github.com/sundowndev/phoneinfoga/tree/master/examples/plugin).
 
-## Local
+(816) 785-5268
 
 The local scan is probably the simplest scan of PhoneInfoga. By default, the tool statically parse the phone number and convert it to several formats, it also tries to recognize the country and the carrier. This information are passed to all scanners in order to provide further analysis. The local scanner simply return those information to the end user, so they can exploit it as well.
 
